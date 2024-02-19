@@ -25,5 +25,10 @@
     "titleBar.inactiveBackground": "#78a27799",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#78a277"
+  "peacock.color": "#78a277",
+  "cSpell.words": [
+    "Burgah",
+    "burgahs",
+    "vegetib"
+  ]
 }
